@@ -1,5 +1,6 @@
 # Vaga de front-end/mobile na 2SOW
 
+
 ## **O desafio para a vaga é um sistema de cadastro de usuários**
 
 Esse sistema deverá conter
